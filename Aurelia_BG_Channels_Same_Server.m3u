@@ -1,0 +1,117 @@
+#EXTM3U
+#EXTINF:-1 group-title="BG | Спорт",MAX Sport 1 HD
+http://45.84.187.172:3001/udp/239.100.100.2:5000
+#EXTINF:-1 group-title="BG | Спорт",MAX Sport 2
+http://45.84.187.172:3001/udp/239.100.100.8:5000
+#EXTINF:-1 group-title="BG | Спорт",MAX Sport 1
+http://45.84.187.172:3001/udp/239.100.100.15:5000
+#EXTINF:-1 group-title="BG | Спорт",MAX Sport 2 HD
+http://45.84.187.172:3001/udp/239.100.100.28:5000
+#EXTINF:-1 group-title="BG | Спорт",MAX Sport 3 HD
+http://45.84.187.172:3001/udp/239.100.100.48:5000
+#EXTINF:-1 group-title="BG | Кино",bTV Cinema HD
+http://45.84.187.172:3001/udp/239.100.100.49:5000
+#EXTINF:-1 group-title="BG | Кино",bTV Comedy HD
+http://45.84.187.172:3001/udp/239.100.100.50:5000
+#EXTINF:-1 group-title="BG | Кино",bTV Story HD
+http://45.84.187.172:3001/udp/239.100.100.51:5000
+#EXTINF:-1 group-title="BG | Спорт",MAX Sport 3
+http://45.84.187.172:3001/udp/239.100.100.61:5000
+#EXTINF:-1 group-title="BG | Спорт",MAX Sport 4
+http://45.84.187.172:3001/udp/239.100.100.63:5000
+#EXTINF:-1 group-title="BG | Спорт",MAX Sport 4 HD
+http://45.84.187.172:3001/udp/239.100.100.64:5000
+#EXTINF:-1 group-title="BG | Общи",БГ+
+http://45.84.187.172:3001/udp/239.100.100.75:5000
+#EXTINF:-1 group-title="BG | Спорт",Nova Sport HD
+http://45.84.187.172:3001/udp/239.10.10.2:5000
+#EXTINF:-1 group-title="BG | Лайфстайл",Food Network HD
+http://45.84.187.172:3001/udp/239.10.10.4:5000
+#EXTINF:-1 group-title="BG | Кино",HBO 2 HD
+http://45.84.187.172:3001/udp/239.100.100.147:5000
+#EXTINF:-1 group-title="BG | Документални",C&I Network
+http://45.84.187.172:3001/udp/239.10.10.10:5000
+#EXTINF:-1 group-title="BG | Кино",Наше Кино
+http://45.84.187.172:3001/udp/239.10.10.12:5000
+#EXTINF:-1 group-title="BG | Новини",Evrokom HD
+http://45.84.187.172:3001/udp/239.10.10.31:5000
+#EXTINF:-1 group-title="BG | Спорт",AutoMotorSport HD
+http://45.84.187.172:3001/udp/239.10.10.43:5000
+#EXTINF:-1 group-title="BG | Детски",Nickelodeon
+http://45.84.187.172:3001/udp/239.10.10.58:5000
+#EXTINF:-1 group-title="BG | Документални",DaVinci Learning
+http://45.84.187.172:3001/udp/239.10.10.87:5000
+#EXTINF:-1 group-title="BG | Спорт",Diema Sport HD
+http://45.84.187.172:3001/udp/239.10.10.96:5000
+#EXTINF:-1 group-title="BG | Новини",Bulgaria 24
+http://45.84.187.172:3001/udp/239.10.10.128:5000
+#EXTINF:-1 group-title="BG | Лайфстайл",24 Kitchen HD
+http://45.84.187.172:3001/udp/239.10.10.133:5000
+#EXTINF:-1 group-title="BG | Кино",STAR Life HD
+http://45.84.187.172:3001/udp/239.10.10.134:5000
+#EXTINF:-1 group-title="BG | Спорт",Diema Sport 2 HD
+http://45.84.187.172:3001/udp/239.10.10.141:5000
+#EXTINF:-1 group-title="BG | Лайфстайл",CodeFashion TV HD
+http://45.84.187.172:3001/udp/239.10.10.144:5000
+#EXTINF:-1 group-title="BG | Общи",Българска християнска ТВ
+http://45.84.187.172:3001/udp/239.10.10.159:5000
+#EXTINF:-1 group-title="BG | Спорт",Diema Sport 3
+http://45.84.187.172:3001/udp/239.10.10.188:5000
+#EXTINF:-1 group-title="BG | Спорт",Diema Sport 3 HD
+http://45.84.187.172:3001/udp/239.10.10.189:5000
+#EXTINF:-1 group-title="BG | Общи",bTV
+http://45.84.187.172:3001/udp/239.100.10.2:5000
+#EXTINF:-1 group-title="BG | Общи",Nova TV
+http://45.84.187.172:3001/udp/239.100.10.7:5000
+#EXTINF:-1 group-title="BG | Документални",Animal Planet
+http://45.84.187.172:3001/udp/239.100.10.14:5000
+#EXTINF:-1 group-title="BG | Музика",Balkanika Music
+http://45.84.187.172:3001/udp/239.100.10.19:5000
+#EXTINF:-1 group-title="BG | Музика",BG Music Channel
+http://45.84.187.172:3001/udp/239.100.10.22:5000
+#EXTINF:-1 group-title="BG | Музика",Box TV
+http://45.84.187.172:3001/udp/239.100.10.29:5000
+#EXTINF:-1 group-title="BG | Детски",Cartoon Network
+http://45.84.187.172:3001/udp/239.100.10.33:5000
+#EXTINF:-1 group-title="BG | Документални",Discovery Channel
+http://45.84.187.172:3001/udp/239.100.10.37:5000
+#EXTINF:-1 group-title="BG | Спорт",Eurosport
+http://45.84.187.172:3001/udp/239.100.10.45:5000
+#EXTINF:-1 group-title="BG | Спорт",Eurosport 2
+http://45.84.187.172:3001/udp/239.100.10.46:5000
+#EXTINF:-1 group-title="BG | Музика",Fen Folk TV
+http://45.84.187.172:3001/udp/239.100.10.48:5000
+#EXTINF:-1 group-title="BG | Музика",FEN TV
+http://45.84.187.172:3001/udp/239.100.10.49:5000
+#EXTINF:-1 group-title="BG | Кино",STAR Crime
+http://45.84.187.172:3001/udp/239.100.10.54:5000
+#EXTINF:-1 group-title="BG | Кино",HBO HD
+http://45.84.187.172:3001/udp/239.100.10.57:5000
+#EXTINF:-1 group-title="BG | Документални",NatGeo Wild
+http://45.84.187.172:3001/udp/239.100.10.68:5000
+#EXTINF:-1 group-title="BG | Документални",National Geographic
+http://45.84.187.172:3001/udp/239.100.10.69:5000
+#EXTINF:-1 group-title="BG | Музика",Planeta TV
+http://45.84.187.172:3001/udp/239.100.10.75:5000
+#EXTINF:-1 group-title="BG | Музика",The Voice
+http://45.84.187.172:3001/udp/239.100.10.93:5000
+#EXTINF:-1 group-title="BG | Музика",Tiankov Folk
+http://45.84.187.172:3001/udp/239.100.10.94:5000
+#EXTINF:-1 group-title="BG | Общи",TV1
+http://45.84.187.172:3001/udp/239.100.10.99:5000
+#EXTINF:-1 group-title="BG | Документални",TVT Tourism SD
+http://45.84.187.172:3001/udp/239.100.10.104:5000
+#EXTINF:-1 group-title="BG | Детски",Baby TV
+http://45.84.187.172:3001/udp/239.100.10.149:5000
+#EXTINF:-1 group-title="BG | Документални",History Channel HD
+http://45.84.187.172:3001/udp/239.100.10.158:5000
+#EXTINF:-1 group-title="BG | Документални",Nat Geo HD
+http://45.84.187.172:3001/udp/239.100.10.169:5000
+#EXTINF:-1 group-title="BG | Документални",Travel Channel HD
+http://45.84.187.172:3001/udp/239.100.10.191:5000
+#EXTINF:-1 group-title="BG | Детски",Disney Junior
+http://45.84.187.172:3001/udp/239.100.10.192:5000
+#EXTINF:-1 group-title="BG | Кино",HBO 3 HD
+http://45.84.187.172:3001/udp/239.100.10.195:5000
+#EXTINF:-1 group-title="BG | Музика",Hit Mix Music
+http://45.84.187.172:3001/udp/239.100.10.199:5000
